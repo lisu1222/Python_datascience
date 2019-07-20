@@ -1,5 +1,5 @@
-# Python_datascience
-self-practice notes
+# checklist_datascience
+self-study lists
 ### Understand functioning of a Business
 - [X] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
 - [X] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
