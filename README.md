@@ -66,7 +66,7 @@ self-study lists
 
 ### Develop strong mathematical foundation
 - [ ] [Book: Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
-- [ ] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
+- [X] [Book: Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)
 - [ ] [Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)
 - [ ] [edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)
