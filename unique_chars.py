@@ -4,4 +4,4 @@ class UniqueChars(object):
 		if string is None:
 			return False
 		else:
-			return set(string)==len(string)
+			return len(set(string))==len(string)
