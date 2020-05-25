@@ -1,6 +1,6 @@
 """
 input: year month date
-output: what it the ith day of the year?
+output: what it the ith day of the year for the given date?
 i.g.
 	input: 1990 9 20
 	output: 263
