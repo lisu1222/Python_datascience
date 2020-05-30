@@ -37,12 +37,35 @@ Sample Input 0
 
 
 
-def jumpingOnClouds(c): step = 0 i = 0
-    
-    while i < len(c)-2: if c[i+2] == 0: i += 1 step += 1 i += 1 #if i hasn't
-    reached the last cloud:         if i != len(c)-1: step += 1    
+def jumpingOnClouds(c): 
+	step = 0 
+	i = 0
+    while i < len(c)-2:
+    	if c[i+2] == 0:
+    		i += 1 
+    	step += 1 
+    	i += 1 
+    #if i hasn't reached the last cloud:         
+    if i != len(c)-1: 
+    	step += 1    
 
     return step
+
+
+#improved solution:
+def jumpingOnClouds(c):
+	step = -1
+	i = 0
+	while i < len(c):
+		if i < len(c)-2, and c[i+2]==0:
+			i+=1
+		i += 1
+		step += 1
+	return step
+
+
+
+
 
 if __name__ =='__main__': n = int(input()) c = list(map(int,
 input().rstrip().split())) result = jumpingOnClouds(c)
