@@ -50,8 +50,7 @@ def median(nums):
 def quartile(nums):
     Q2 = median(nums)
     Q1 = median(nums[:len(nums)//2])
-    arg = list(filter(lambda x: x > Q2, nums))
-    Q3 = median(arg)
+    Q3 = median(nums[(len(nums)+1)//2:])
     return Q1, Q2, Q3
 
 
@@ -61,4 +60,5 @@ w = list(map(int, input().split(' ')))
 nums = get_nums(x, w)
 Q1, Q2, Q3 = quartile(nums)
 IQR = Q3 - Q1
+
 print (IQR)
