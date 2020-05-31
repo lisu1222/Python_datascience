@@ -18,7 +18,4 @@ def binomialCdf_bottom(y, n, p):
 	return result
 
 def binomialCdf_up(y, n, p):
-	result = 0
-	for i in range(y+1):
-		result += binomialPdf(i, n, p)
-	return result
+	return sum([binomialPdf(i, n, p) for i in range(y+1)])
