@@ -65,3 +65,8 @@ Sample Output
 
 19
 """
+
+def hourglassSum(arr):
+
+    return (max([sum(arr[i-1][j-1:j+2] + [arr[i][j]] + arr[i+1][j-1:j+2]) for
+    j in range(1, 5) for i in range(1, 5)]))
