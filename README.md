@@ -21,9 +21,9 @@ self-study lists
 - [X] [Datacamp: pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)
 - [X] [Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)
 - [X] [Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)
-- [ ] [Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
+- [x] [Datacamp: Optimizing Python Code with pandas](https://www.datacamp.com/courses/optimizing-python-code-with-pandas)
 - [ ] [Datacamp: Streamlined Data Ingestion with pandas](https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas)
-- [ ] [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
+- [x] [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
 
 ### Be able to manipulate data in spreadsheets
 - [ ] [Datacamp: Spreadsheet basics](https://www.datacamp.com/courses/spreadsheet-basics)
@@ -45,7 +45,7 @@ self-study lists
 - [ ] [Launch School: Introduction to SQL](https://launchschool.com/books/sql)
 - [ ] [Treehouse: Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python)
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-- [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [X] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ### Be able to use the command line
@@ -85,3 +85,6 @@ self-study lists
 - [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+
+### Understand Data Structures and Algorithms
+- [x] [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms)
