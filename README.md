@@ -88,3 +88,11 @@ self-study lists
 
 ### Understand Data Structures and Algorithms
 - [x] [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms)
+
+### Product and Experimental Design
+
+- [x] [User Engagement Metrics](https://mixpanel.com/topics/important-user-engagement-metrics-apps/)
+- [x] [Data Scientist’s Toolbox: Experimental Design -Video](https://www.youtube.com/watch?v=vSXOJnGNtM4)
+- [ ] [A/B Testing Guide](https://cxl.com/AB-Testing-Guide-ConversionXL.pdf)
+- [x] [Multivariate Testing](https://www.youtube.com/watch?v=dYdTqoamI3Q)
+- [x] [6 Themes Of Metrics](https://productschool.com/blog/product-management-2/interview/answering-metrics-interview-question-product-management/)
